@@ -1,0 +1,11 @@
+User = "TETS"
+print("Hello,", User)
+wait(2)
+print("CIA -&- Child Protection Services")
+print("IP-Found")
+wait(1.5)
+print("IMEI-Found")
+wait(1.5)
+print("WIFI-Found")
+wait(1.5)
+print("CIA -&- Child Protection Services")
